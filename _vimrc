@@ -125,7 +125,7 @@ imap <C-W> <C-O><C-W>
 " Open NerdTree
 map <leader>n :NERDTreeToggle<CR>
 
-w Run command-t file search
+" Run command-t file search
 map <leader>f :CommandT<CR>
 " Ack searching
 nmap <leader>a <Esc>:Ack!
